@@ -63,6 +63,7 @@ runs:
         cache-from: type=registry,ref=rencibuild/ctmd-${{ inputs.app-name }}:buildcache
         cache-to: type=registry,ref=rencibuild/ctmd-${{ inputs.app-name }}:buildcache,mode=max
 
+
     - name: Build Service Release
       if: ${{ inputs.release-tag != '' }}
       uses: docker/build-push-action@v6
