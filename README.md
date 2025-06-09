@@ -1,4 +1,4 @@
-# Clinical Trial Management Dashboard
+# Clinical Trial Management Dashboard 
 This application is a component of the [Trial Innovation Network](https://trialinnovationnetwork.org/) which uses TIN Redcap trial data to further the TIN mission "addressing critical roadblocks in clinical research and accelerate the translation of novel interventions into life-saving therapies."
 
 The Clinical Trial Management Dashboard allows participants to upload and customize additional data atop Redcap data, view graphs, create reports and draw critical insight into areas that can be improved across various research processes and ongoing trials.
